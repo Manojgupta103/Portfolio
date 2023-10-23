@@ -1,6 +1,6 @@
-# Codsoft-web-dev-Level-1-Task-1-Portfolio
+# Codsoft-web-dev-Level-1-Task-2-Portfolio
 
-# Level-1-Task-1-Portfolio Video
+# Level-1-Task-2-Portfolio
 
 Welcome to my Level-1-Task-1-Portfolio Video readme file. This document will guide you through the various sections and functionalities of my portfolio video. Please feel free to explore the content and get to know me better.
 
